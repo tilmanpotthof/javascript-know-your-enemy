@@ -3,6 +3,8 @@
 Ressourcen und Präsentation zu dem Vortrag "JavaScript - Eine missverstandene Sprache", der am 4.3.2013 im Rahmen des 3. Treffens der [JavaScript User Group für Wiesbaden und Rhein-Main
 ](http://rheinmainjs.de/) gehalten wurde.
 
+Präsentation online: [http://programmingisart.com/javascript/eine-missverstandene-sprache](http://programmingisart.com/javascript/eine-missverstandene-sprache)
+
 ## Code-Beispiele ##
 
 Die JavaScript Code-Beispiele können alle direkt in der JavaScript-Konsole der Präsentationsseite ausgeführt werden. Die benötigten Bibliotheken werden direkt oder dynamisch (MooTools) aus dem Ordner demo-libs eingebunden.
