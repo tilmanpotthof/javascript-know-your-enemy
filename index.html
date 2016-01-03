@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<link rel="stylesheet" href="css/reveal.min.css">
-		<link rel="stylesheet" href="css/theme/sky.css" id="theme">
+		<link rel="stylesheet" href="css/theme/serif.css" id="theme">
 
 		<!-- For syntax highlighting -->
 		<link rel="stylesheet" href="lib/css/default.css">
@@ -53,57 +53,23 @@
 
     <section data-markdown><script type="text/template">
     # JavaScript
-    ## Eine <br/> missverstandene <br/> Sprache
+    ## -
+    ## Know your enemy
     </script></section>
-    
-    <section>
-        <section data-markdown><script type="text/template">
-        # Kurz zu mir
-        
-        <pre><code>var ich = {
-          name : "Tilman Potthof",
-          email : "tilmanpotthof@gmail.com",
-          alter : 25,
-          hobbies : ["Schlagzeug spielen", "Pasta kochen", "Basketball"],
-          job : [{
-            bezeichnung : "Student der Medieninformatik",
-            bei : "Hochschule RheinMain"
-          }
-          ,{
-            title : "Praktikant als Web-Entwickler",
-            bei : "//SEIBERT/MEDIA",
-            seit : "10.12.2012"
-          }]
-        };
-        </code></pre>
-        
-        </script></section>
-    
-        <section data-markdown><script type="text/template">
-            ## In den Topf gefallen
-            
-            * Wunsch ein Browser-Plugin zu schreiben
-            * Entdeckung von Bookmarklets
-            * Erste Gehversuche mit JavaScript
-            * Auseinandersetzung mit der Sprache
-            * Diverse Web-Projekte (FH/Freizeit/Freiberuflich)
-            * Versuch an einem eigenen Komponenten-Framework<br/>auf Basis von jQuery, Backbone und Bootstrap
-        </script></section>
-    </section>
 
     <section>
         <section data-markdown><script type="text/template">
             # Java(Script)?
             * Falsche Assoziationen und Erwartungen
-            * Java mit ein bisschen Scripting
-            * Ähnliche Funktionsweise / Laufzeitumgebung
+            * Java mit ein bisschen Scripting?
+            * Ähnliche Funktionsweise / Laufzeitumgebung?
         </script></section>
         <section data-markdown><script type="text/template">
             ## Java Gemeinsamkeiten
             * Syntax von C geerbt (wie Java, PHP etc.)
             * Namensrechte liegen bei Oracle
             * Kooperation zwischen Sun und Netscape
-            * "Richtiger"/Name ECMAScript (standard)
+            * "Richtiger"/Name ECMAScript (Name des Standards)
         </script></section>
     </section>
     
@@ -136,13 +102,14 @@
         </script></section>
         <section data-markdown><script type="text/template">
             ## Was fehlt? #wasfehlt
-            
-            * Klassen
-            * Interfaces
-            * Packages / Module / Namensräume
-            * Kapselung / private Attribute
-            * Umfangreiche Standard-Bibliothek
         </script></section>
+         <section data-markdown><script type="text/template">
+             * Klassen
+             * Interfaces
+             * Packages / Module / Namensräume
+             * Kapselung / private Attribute
+             * Umfangreiche Standard-Bibliothek
+         </script></section>
         <section data-markdown><script type="text/template">
             ### Love it, change it, leave it
             * Plugins (Java, Flash)?
@@ -160,7 +127,14 @@
         </section>
     </section>
 
- 
+    <section>
+        <section><img src="img/tool-time.jpg"/></section>
+        <section data-markdown><script type="text/template">
+            ## Unsere Werkzeuge
+            * Eine JS-Konsole (Browser, node etc.)
+        </script></section>
+    </section>
+
      <section>
         <section data-markdown><script type="text/template">
             ## Was sind die guten Seiten?
@@ -387,9 +361,11 @@
             new Person.Tidy().eat(); // washing hands // yummy
             </pre></code>
         </script></section>
-    </section>  
+    </section>
     <section>
-        <img src="img/tool-time.jpg"/>
+        <section data-markdown><script type="text/template">
+            ## Was sind die schlechten Seiten?
+        </script></section>
     </section>
     <section>
         <section data-markdown><script type="text/template">
@@ -709,7 +685,7 @@
         <section data-markdown><script type="text/template">
             ## for-each - Indizes
             * Arrays sind fast normale Objekte
-            * Indizes sind normale Schüssel, also Strings
+            * Indizes sind normale Schlüssel, also Strings
             <pre><code>for (var i in [3,2,1,0]) {
                 console.log(typeof(i)); // string
             }
