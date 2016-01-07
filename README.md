@@ -1,19 +1,19 @@
-## Vortrag: JavaScript - Eine missverstandene Sprache ##
+## JavaScript - Know your Enemy
 
-Ressourcen und Präsentation zu dem Vortrag "JavaScript - Eine missverstandene Sprache", der am 4.3.2013 im Rahmen des 3. Treffens der [JavaScript User Group für Wiesbaden und Rhein-Main
-](http://rheinmainjs.de/) gehalten wurde.
+> Workshop-Serie um verschiedene Aspekte der JS-Programmierung zu beleuchten
 
-Präsentation online: [http://programmingisart.com/javascript/eine-missverstandene-sprache](http://programmingisart.com/javascript/eine-missverstandene-sprache)
+[Know your Enemy - Übersicht](http://tilmanpotthof.github.io/javascript-know-your-enemy/#/)
+[Part I- Good vs Bad](http://tilmanpotthof.github.io/javascript-know-your-enemy/part-01-good-vs-bad.html#/)
 
-## Code-Beispiele ##
-
-Die JavaScript Code-Beispiele können alle direkt in der JavaScript-Konsole der Präsentationsseite ausgeführt werden. Die benötigten Bibliotheken werden direkt oder dynamisch (MooTools) aus dem Ordner demo-libs eingebunden.
-
-## Ressourcen ##
+## Part I - Ressourcen ##
 
 * [JavaScript Garden - Umfangreicher Einstieg in die Sprache](http://bonsaiden.github.com/JavaScript-Garden/)
 * [JavaScript Portal des MDN (Mozzilla Developer network))](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns/)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
-* [TodoMVC - Die gleiche App geschrieben in Unterschiedlichen Frameworks](http://addyosmani.github.com/todomvc/)
+* [TodoMVC - Die gleiche App geschrieben in Unterschiedlichen Frameworks](http://todomvc.com)
 * [JSHint - Code Quality](http://jshint.com/)
+
+## Part 2 - Ressourcen
+
+* Ressourcen sind im [Demo-Repository](https://github.com/tilmanpotthof/es6-setup) verlinkt.
