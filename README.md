@@ -13,6 +13,7 @@
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 * [TodoMVC - Die gleiche App geschrieben in Unterschiedlichen Frameworks](http://todomvc.com)
 * [JSHint - Code Quality](http://jshint.com/)
+* [MDN - Strict Mode](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Strict_mode)
 
 ## Part 2 - Ressourcen
 
